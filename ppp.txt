@@ -12,3 +12,4 @@ ppp add
 300 add ppp
 400 add ppp
 500 add ppp
+regist
